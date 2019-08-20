@@ -11,3 +11,5 @@ files on the ftp server
 ## Running
 This code is for python 2 only as there are
 print statements
+
+Latest backup: Tue Aug 20 12:33:22 UTC 2019
