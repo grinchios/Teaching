@@ -1,0 +1,1 @@
+randstr=$(< /dev/urandom tr -dc _A-Z-a-z-0-9 | head -c${1:-32};echo;); git checkout master; sed -i '$ d' README.md; echo "Latest backup: "`date` >> README.md; git add .; git commit -m "Backup: $randstr"; git push origin master
