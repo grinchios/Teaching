@@ -12,4 +12,4 @@ files on the ftp server
 This code is for python 2 only as there are
 print statements
 
-Latest backup: Sun Aug 25 09:06:01 UTC 2019
+Latest backup: Sun Aug 25 09:07:01 UTC 2019
